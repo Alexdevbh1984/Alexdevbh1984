@@ -2,8 +2,7 @@
 <h1 align="center">  ALEX RIBEIRO </h1>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexdevbh1984 radical=true) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexdevbh1984 hide= radical,prs)
-
+! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = Alexdevbh1984 & theme = dark & ​​show_icons = true )
 
 
 
