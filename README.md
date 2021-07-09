@@ -1,6 +1,6 @@
 #
 <h1 align="center">  ALEX RIBEIRO </h1>
-<img src width:100%;heigh = "https://github.com/Alexdevbh1984/Locadora/blob/main/anatomy-1751201_1280.png"/> 
+<img width:100%;height:auto  src = "https://github.com/Alexdevbh1984/Locadora/blob/main/anatomy-1751201_1280.png"/> 
 
 
 
