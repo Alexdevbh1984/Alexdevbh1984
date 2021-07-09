@@ -2,7 +2,8 @@
 <h1 align="center">  ALEX RIBEIRO </h1>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexdevbh1984&radical=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexdevbh1984&radical=true) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexdevbh1984&hide=contribs,prs)
+
 
 
 
