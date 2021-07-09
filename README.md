@@ -1,6 +1,5 @@
-#
-<h1 align="center">  <img src = "https://github.com/Alexdevbh1984/Locadora/blob/main/anatomy-1751201_1280.png"/> 
-  </h1>
+##
+<h1 align="center">  ALEX RIBEIRO </h1>
 
 
 
