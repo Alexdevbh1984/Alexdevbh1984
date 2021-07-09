@@ -12,5 +12,4 @@ Apaixonado por tecnologia, por robe já desenvolvi em Python, PHP Ionic, cordova
 
 
 
-
-! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra & radical= dark & ​​show_icons = true )
+ (https://github-readme-stats.vercel.app/api ? Username = anuraghazra & radical= dark & ​​show_icons = true )
